@@ -1,20 +1,35 @@
+## 👋 Prazer, sou o Luiz
 
-## Opa! Luiz aqui
- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/luizcp7)        [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:luiz260920@gmail.com) 
+Desenvolvedor **Full Stack Júnior**, focado em criar aplicações web funcionais, APIs e interfaces responsivas.  
+Estudo constante e prática com projetos reais.
 
-#  Minhas linguagens
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-            
-          
+### 🚀 Tecnologias que utilizo
+**Back-end**
+- Node.js • Express
+- Python
+- PHP
+- MySQL
 
+**Front-end**
+- HTML5 • CSS3
+- JavaScript
+- TypeScript
 
-#  GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=lecDados&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=lecDados&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lecDados&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+**Outros**
+- JSON
+- Git & GitHub
 
----
-[![](https://visitcount.itsvg.in/api?id=lecDados&icon=0&color=0)](https://visitcount.itsvg.in)
+### 📌 O que eu faço
+- Desenvolvimento de APIs REST
+- Integração com banco de dados MySQL
+- Criação de interfaces responsivas
+- Consumo de APIs
+- Projetos Full Stack simples e organizados
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 📊 GitHub em números
+![Stats](https://github-readme-stats.vercel.app/api?username=lecDados&theme=dark)
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=lecDados&layout=compact&theme=dark)
+
+### 📫 Contato
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/luizcp7)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:luiz260920@gmail.com)
