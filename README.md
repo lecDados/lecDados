@@ -1,5 +1,5 @@
 # 💫 About Me:
-Desenvolvedor Full Stack Júnior, com foco em aplicações web e APIs. Experiência com Node.js, JavaScript, TypeScript, Python e MySQL. Autodidata, em constante aprendizado, com prática em projetos reais e foco em código limpo e funcional.
+Desenvolvedor Backend Júnior, com foco em aplicações web e APIs. Experiência com Node.js, JavaScript, TypeScript, Python e MySQL. Autodidata, em constante aprendizado, com prática em projetos reais e foco em código limpo e funcional.
 
 
 ## 🌐 Socials:
