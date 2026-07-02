@@ -10,19 +10,32 @@
 
 <br/>
 
+## 🐍 Contribuições ao longo do ano
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/LecDados/LecDados/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</div>
+
+> 💡 Essa animação (a "cobrinha" comendo os quadradinhos do gráfico de contribuição) é gerada automaticamente via **GitHub Actions**.
+
+<br/>
+
 ## 💫 Sobre mim
 
 ```javascript
 const luiz = {
   role: "Desenvolvedor Backend Júnior",
   focus: ["APIs REST", "Arquitetura de dados", "Código limpo"],
-  stack: ["Node.js", "JavaScript", "TypeScript", "Python", "MySQL"],
+  stack: [
+    "Node.js", "JavaScript", "TypeScript", "Python", "MySQL",
+    "MongoDB", "JWT", "Jest", "Zod", "React", "Supabase", "Lovable",
+  ],
   mindset: "Autodidata, em constante evolução 🚀",
   currentGoal: "Construir aplicações escaláveis e bem estruturadas",
 };
 ```
 
-Desenvolvedor Backend Júnior com foco em aplicações web e APIs. Experiência com **Node.js**, **JavaScript**, **TypeScript**, **Python** e **MySQL**. Autodidata, em constante aprendizado, com prática em projetos reais e foco em código limpo e funcional.
+Desenvolvedor Backend Júnior com foco em aplicações web e APIs. Experiência com **Node.js**, **JavaScript**, **TypeScript**, **Python** e **MySQL**. Autodidata, em aprendizado constante, com prática em projetos reais e foco em código limpo e funcional.
 
 <br/>
 
@@ -38,7 +51,7 @@ Desenvolvedor Backend Júnior com foco em aplicações web e APIs. Experiência 
 
 <br/>
 
-## 💻 Tech Stack
+## 💻 Conjunto de tecnologias
 
 <div align="center">
 
@@ -47,7 +60,14 @@ Desenvolvedor Backend Júnior com foco em aplicações web e APIs. Experiência 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Jest](https://img.shields.io/badge/-jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Lovable](https://img.shields.io/badge/Lovable-EC4899?style=for-the-badge&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
@@ -57,7 +77,7 @@ Desenvolvedor Backend Júnior com foco em aplicações web e APIs. Experiência 
 
 <br/>
 
-## 📊 GitHub Stats
+## 📊 Estatísticas do GitHub
 
 <div align="center">
 
@@ -70,21 +90,11 @@ Desenvolvedor Backend Júnior com foco em aplicações web e APIs. Experiência 
 
 <br/>
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=LecDados&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1)
-
-</div>
 
 <br/>
 
 ## 📈 Atividade recente
-
-<!--START_SECTION:activity-->
-<!-- Este bloco é preenchido automaticamente pela GitHub Action "github-activity-readme" -->
-<!--END_SECTION:activity-->
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=LecDados&theme=redical&hide_border=true&area=true" width="100%"/>
@@ -92,44 +102,6 @@ Desenvolvedor Backend Júnior com foco em aplicações web e APIs. Experiência 
 
 <br/>
 
-## 🐍 Contribuições ao longo do ano
-
 <div align="center">
-<img src="https://raw.githubusercontent.com/LecDados/LecDados/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</div>
-
-> 💡 Essa animação (a "cobrinha" comendo os quadradinhos do contribution graph) é gerada automaticamente via **GitHub Actions**. Se ainda não estiver aparecendo, é só configurar o workflow — te explico como logo abaixo.
-
-<br/>
-
-## ✍️ Frase aleatória de dev
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
-
-<br/>
-
-## 🔝 Repositório mais contribuído
-
-<div align="center">
-
-![](https://github-contributor-stats.vercel.app/api?username=LecDados&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
-</div>
-
-<br/>
-
-<div align="center">
-
-[![](https://visitcount.itsvg.in/api?id=LecDados&icon=9&color=6)](https://visitcount.itsvg.in)
-
-<br/>
-
-**"Código limpo não é escrito seguindo regras. É escrito por alguém que se importa."**
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:0077B5&height=100&section=footer" width="100%"/>
-
 </div>
