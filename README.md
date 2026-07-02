@@ -77,20 +77,6 @@ Desenvolvedor Backend Júnior com foco em aplicações web e APIs. Experiência 
 
 <br/>
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=LecDados&theme=radical&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LecDados&theme=radical&hide_border=true&layout=compact" width="49%"/>
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=LecDados&theme=radical&hide_border=true" width="70%"/>
-
-</div>
-
-<br/>
-
-
 
 <br/>
 
