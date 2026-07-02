@@ -1,26 +1,26 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:00D4FF&height=220&section=header&text=Luiz%20Eduardo&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20%7C%20Node.js%20%7C%20Python%20%7C%20TypeScript&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2b2b2b&height=220&section=header&text=Luiz%20Eduardo&fontSize=56&fontColor=c9d1d9&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20%7C%20Node.js%20%7C%20Python%20%7C%20TypeScript&descAlignY=55&descSize=16" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=600&lines=Desenvolvedor+Backend+J%C3%BAnior;Apaixonado+por+APIs+e+arquitetura+limpa;Sempre+aprendendo+algo+novo;Node.js+%7C+TypeScript+%7C+Python+%7C+MySQL" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=8B949E&center=true&vCenter=true&width=600&lines=Desenvolvedor+Backend+J%C3%BAnior;Apaixonado+por+APIs+e+arquitetura+limpa;Sempre+aprendendo+algo+novo;Node.js+%7C+TypeScript+%7C+Python+%7C+MySQL" alt="Typing SVG" />
 </a>
 
 </div>
 
 <br/>
 
-## 🐍 Contribuições ao longo do ano
+## Contribuições ao longo do ano
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/LecDados/LecDados/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
 
-> 💡 Essa animação (a "cobrinha" comendo os quadradinhos do gráfico de contribuição) é gerada automaticamente via **GitHub Actions**.
+> Essa animação (a cobrinha percorrendo o gráfico de contribuição) é gerada automaticamente via GitHub Actions.
 
 <br/>
 
-## 💫 Sobre mim
+## Sobre mim
 
 ```javascript
 const luiz = {
@@ -30,7 +30,7 @@ const luiz = {
     "Node.js", "JavaScript", "TypeScript", "Python", "MySQL",
     "MongoDB", "JWT", "Jest", "Zod", "React", "Supabase", "Lovable",
   ],
-  mindset: "Autodidata, em constante evolução 🚀",
+  mindset: "Autodidata, em constante evolução",
   currentGoal: "Construir aplicações escaláveis e bem estruturadas",
 };
 ```
@@ -39,55 +39,52 @@ Desenvolvedor Backend Júnior com foco em aplicações web e APIs. Experiência 
 
 <br/>
 
-## 🌐 Conecte-se comigo
+## Conecte-se comigo
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/luiz.educardoso)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-eduardo-4a6207384/)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luiz260920@gmail.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-161b22?style=for-the-badge&logo=instagram&logoColor=c9d1d9)](https://instagram.com/luiz.educardoso)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=c9d1d9)](https://www.linkedin.com/in/luiz-eduardo-4a6207384/)
+[![Gmail](https://img.shields.io/badge/-Email-161b22?style=for-the-badge&logo=gmail&logoColor=c9d1d9)](mailto:luiz260920@gmail.com)
 
 </div>
 
 <br/>
 
-## 💻 Conjunto de tecnologias
+## Conjunto de tecnologias
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![Jest](https://img.shields.io/badge/-jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Lovable](https://img.shields.io/badge/Lovable-EC4899?style=for-the-badge&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-161b22?style=for-the-badge&logo=javascript&logoColor=c9d1d9)
+![TypeScript](https://img.shields.io/badge/-TypeScript-161b22?style=for-the-badge&logo=typescript&logoColor=c9d1d9)
+![Python](https://img.shields.io/badge/-Python-161b22?style=for-the-badge&logo=python&logoColor=c9d1d9)
+![NodeJS](https://img.shields.io/badge/-Node.js-161b22?style=for-the-badge&logo=node.js&logoColor=c9d1d9)
+![Express.js](https://img.shields.io/badge/-Express.js-161b22?style=for-the-badge&logo=express&logoColor=c9d1d9)
+![React](https://img.shields.io/badge/-React-161b22?style=for-the-badge&logo=react&logoColor=c9d1d9)
+![MySQL](https://img.shields.io/badge/-MySQL-161b22?style=for-the-badge&logo=mysql&logoColor=c9d1d9)
+![MongoDB](https://img.shields.io/badge/-MongoDB-161b22?style=for-the-badge&logo=mongodb&logoColor=c9d1d9)
+![JWT](https://img.shields.io/badge/-JWT-161b22?style=for-the-badge&logo=jsonwebtokens&logoColor=c9d1d9)
+![Jest](https://img.shields.io/badge/-Jest-161b22?style=for-the-badge&logo=jest&logoColor=c9d1d9)
+![Zod](https://img.shields.io/badge/-Zod-161b22?style=for-the-badge&logo=zod&logoColor=c9d1d9)
+![Supabase](https://img.shields.io/badge/-Supabase-161b22?style=for-the-badge&logo=supabase&logoColor=c9d1d9)
+![Lovable](https://img.shields.io/badge/-Lovable-161b22?style=for-the-badge&logoColor=c9d1d9)
+![HTML5](https://img.shields.io/badge/-HTML5-161b22?style=for-the-badge&logo=html5&logoColor=c9d1d9)
+![CSS3](https://img.shields.io/badge/-CSS3-161b22?style=for-the-badge&logo=css3&logoColor=c9d1d9)
+![Figma](https://img.shields.io/badge/-Figma-161b22?style=for-the-badge&logo=figma&logoColor=c9d1d9)
+![GitHub](https://img.shields.io/badge/-GitHub-161b22?style=for-the-badge&logo=github&logoColor=c9d1d9)
 
 </div>
 
 <br/>
 
-
-<br/>
-
-## 📈 Atividade recente
+## Atividade recente
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=LecDados&theme=redical&hide_border=true&area=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=LecDados&bg_color=0d1117&color=8b949e&line=6e7681&point=c9d1d9&area=true&area_color=30363d&hide_border=true" width="100%"/>
 </div>
 
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:0077B5&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b2b2b,100:0d1117&height=100&section=footer" width="100%"/>
 </div>
